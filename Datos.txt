@@ -1,0 +1,6 @@
+Renato,chico,0,7
+AACM12,alvaro,0,35000
+Cal,check,0,0
+Nombre,contra,0,0
+Neto,chivo,0,0
+j,n,0,0
